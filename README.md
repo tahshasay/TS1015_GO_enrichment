@@ -3,7 +3,7 @@
 #These data and scripts are supplement to Say, T. E., & Degnan, S. M. (2019). Interdependent photo- and chemosensory systems regulate larval settlement in a marine sponge. bioRxiv, 519512. doi:10.1101/519512
 
 
-#The GO enrichment analysis + script was published by Mikhail Matz and is available at https://github.com/z0on/GO_MWU
+#The sPLS-DA list of DEG was characterised by Gene Ontology (GO) enrichment using a Fishers exact test (gene is present or absent in the differentially expressed gene list) implemented using the GO_MWU package (Wright, Aglyamova, Meyer, & Matz, 2015); the package and instructions are available at https://github.com/z0on/GO_MWU and see additional supplementary data on GitHub at https://github.com/tahshasay/TS1015_GO_enrichment.
 
 
 #This folder contains the files and scripts used to perform the GO enrichment on the genes identified by the sPLS-DA.
@@ -19,3 +19,6 @@ INPUT_files
 
 OUTPUT_files
 GO enrichment plot is in Figure S4.
+
+Reference
+Wright, R. M., Aglyamova, G. V., Meyer, E., & Matz, M. V. (2015). Gene expression associated with white syndromes in a reef building coral, Acropora hyacinthus. BMC Genomics, 16(1), 371. doi:10.1186/s12864-015-1540-2
