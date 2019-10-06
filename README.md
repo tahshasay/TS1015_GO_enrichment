@@ -3,7 +3,7 @@
 #These data and scripts are supplement to Say, T. E., & Degnan, S. M. (2019). Interdependent photo- and chemosensory systems regulate larval settlement in a marine sponge. bioRxiv, 519512. doi:10.1101/519512
 
 
-#The sPLS-DA list of DEG was characterised by Gene Ontology (GO) enrichment using a Fishers exact test (gene is present or absent in the differentially expressed gene list) implemented using the GO_MWU package (Wright, Aglyamova, Meyer, & Matz, 2015); the package and instructions are available at https://github.com/z0on/GO_MWU and see additional supplementary data listed below.
+#DEG were characterised by Gene Ontology (GO) enrichment using a Fishers exact test (gene is present or absent in the differentially expressed gene list) implemented using the GO_MWU package (Wright, Aglyamova, Meyer, & Matz, 2015); the package and instructions are available at https://github.com/z0on/GO_MWU and see additional supplementary data listed below.
 
 
 #This folder contains the files and scripts used to perform the GO enrichment on the genes identified by the sPLS-DA.
