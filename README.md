@@ -3,7 +3,7 @@
 #These data and scripts are supplement to Say, T. E., & Degnan, S. M. (2019). Interdependent photo- and chemosensory systems regulate larval settlement in a marine sponge. bioRxiv, 519512. doi:10.1101/519512
 
 
-# The GO enrichment analysis + script was published by Mikhail Matz and is available at https://github.com/z0on/GO_MWU
+#The GO enrichment analysis + script was published by Mikhail Matz and is available at https://github.com/z0on/GO_MWU
 
 
 #This folder contains the files and scripts used to perform the GO enrichment on the genes identified by the sPLS-DA.
