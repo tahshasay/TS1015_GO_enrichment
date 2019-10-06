@@ -1,5 +1,9 @@
 # TS1015_GO_enrichment
 
+#These data and scripts are supplement to Say, T. E., & Degnan, S. M. (2019). Interdependent photo- and chemosensory systems regulate larval settlement in a marine sponge. bioRxiv, 519512. doi:10.1101/519512
+
+
+
 #This folder contains the files and scripts used to perform the GO enrichment on the genes identified by the sPLS-DA.
 
 INPUT_files
